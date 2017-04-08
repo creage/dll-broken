@@ -1,0 +1,13 @@
+{
+	"presets": [
+		[ "env", { 
+			"modules": false,
+			"useBuiltIns": true,
+			"targets": { 
+				"browsers": {
+					"ie": 11
+				}
+			}
+		} ]
+	]
+}
