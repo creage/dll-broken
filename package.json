@@ -9,9 +9,9 @@
     "build:app": "webpack"
   },
   "dependencies": {
-    "babel-core": "^6.23.1",
-    "babel-loader": "^6.4.0",
+    "babel-core": "6.24.1",
+    "babel-loader": "6.4.1",
     "babel-preset-env": "1.3.3",
-    "webpack": "^2.2.1"
+    "webpack": "2.3.3"
   }
 }
